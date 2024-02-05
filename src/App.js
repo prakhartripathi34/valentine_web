@@ -43,6 +43,7 @@ function App() {
           React.createElement("img", {
             alt: "with heart",
             src: "https://media.tenor.com/HXa-urHqboYAAAAM/milk-and-mocha-i-love-you.gif",
+            // style={{ width: `125px`, height: '125px' }}
           }),
           React.createElement("div", null, "Will you be my valentine...."),
           React.createElement("div", null,
